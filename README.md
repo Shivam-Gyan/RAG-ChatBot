@@ -83,8 +83,9 @@ pip install -r requirements.txt
 
 HF_TOKEN=your_huggingface_token
 GROQ_API_KEY=your_groq_api_key
+```
 
-![Chat UI Screenshot](https://example.com/images/chat-ui.png)
+![Chat UI Screenshot](https://res.cloudinary.com/dglwzejwk/image/upload/v1751390932/75a09bce-0271-4767-a708-e6c33be01577.png)
 
 
 
