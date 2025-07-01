@@ -40,50 +40,17 @@ An AI-powered tool that lets you upload one or more PDFs and **interact with the
 ## 📁 Folder Structure
 
 
-
+```bash
 chat-with-pdf/
 ├── app.py # Main Streamlit application
 ├── requirements.txt # Python dependencies
 ├── .env # API keys and environment variables
 └── README.md # You're reading it :)
 
-
-
----
-
-## ⚙️ Getting Started
-
-### 🔗 Prerequisites
-
-- Python 3.9 or higher
-- API keys from:
-  - [HuggingFace](https://huggingface.co/settings/tokens)
-  - [Groq](https://console.groq.com/)
-
----
-
-### 🧪 Setup Instructions
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/pdf-chat-genai.git
-cd pdf-chat-genai
-
-
-python -m venv venv
-# On Windows
-venv\Scripts\activate
-# On macOS/Linux
-source venv/bin/activate
-
-
-pip install -r requirements.txt
-
-
-HF_TOKEN=your_huggingface_token
-GROQ_API_KEY=your_groq_api_key
 ```
+
+
+### ScreenShot of Chat-Bot
 
 ![Chat UI Screenshot](https://res.cloudinary.com/dglwzejwk/image/upload/v1751390932/75a09bce-0271-4767-a708-e6c33be01577.png)
 
