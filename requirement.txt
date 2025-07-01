@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+langchain-community
+pypdf
+bs4
+langchain-text-splitters
+langchain_huggingface
+faiss-cpu
+beautifulsoup4
+langchain_groq
+langchain_core
+streamlit
+sentence_transformers
